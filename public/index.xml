@@ -6,7 +6,7 @@
     <description>Recent content on diary_business_analyst</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
@@ -45,6 +45,15 @@
       
       <guid>/timeline/lorem_ipsum/</guid>
       <description>Abstract Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id ornare arcu odio ut sem nulla. Ac felis donec et odio pellentesque. Est placerat in egestas erat imperdiet sed euismod nisi. Vestibulum morbi blandit cursus risus. At volutpat diam ut venenatis tellus. Vel turpis nunc eget lorem. Sagittis purus sit amet volutpat consequat mauris nunc congue nisi. Diam sit amet nisl suscipit.</description>
+    </item>
+    
+    <item>
+      <title>Starting New Blog</title>
+      <link>/post/starting-new-blog/</link>
+      <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/starting-new-blog/</guid>
+      <description>Hello everyone! 😄 Terima kasih sudah mampir ke websiteku. Di sini aku menulis hal-hal menarik seputar analisis data dan juga ekonomi. Di blog ini juga diulas mengenai resensi buku yang aku baca, utamanya yang berkaitan dengan kedua hal tersebut ❤️.</description>
     </item>
     
   </channel>
